@@ -1,2 +1,2 @@
-# Beta_Tester_Form
+# Beta tester form account
 Want to be a beta tester? Create an account here!
